@@ -1,0 +1,30 @@
+[
+    {
+        "fullname": "მირანდა მუქერია",
+        "age": "18",
+        "phone": "+995591241388",
+        "email": "miranda.muqeria15@gmail.com",
+        "password": "scrypt:32768:8:1$Cwp7p88yFatrH64L$54a0deea043ab77e1c04ffcc412ac26028ea775c69c876ff694a8e513236bac07847e668f5fd9176e18e671c03a40a081baf6eb0623b5d66457b7ffa2e8e0d8d"
+    },
+    {
+        "fullname": "eto akhalmosulishvili",
+        "age": "18",
+        "phone": "+995598611315",
+        "email": "eto.akhalmosulishvili@gmail.com",
+        "password": "scrypt:32768:8:1$qFN9WfP24SArD4E1$f5a40c59f6fec62efa3cb33a7d2cbf84dbc9da8e5e5552e04ad9bcf35d2eb1e4fbf9839722d183ffcded297316fb6854f473f3233a40e9784e93450c6ff7a164"
+    },
+    {
+        "fullname": "miranda muqeria",
+        "age": "18",
+        "phone": "+995591241388",
+        "email": "miranda.muqeria15@gmail.com",
+        "password": "scrypt:32768:8:1$Lnsneh1BMiQN2eGd$deece147943375dcf57c4b84f989a4df020da3723c0740b3acbebe5388b45c0cd36f78a959df130654cda1a1feb3db65678ce74f998fc4d0d8a55c1b8e63d21a"
+    },
+    {
+        "fullname": "ეთო ახალმოსულიშვილი",
+        "age": "18",
+        "phone": "+995598611315",
+        "email": "eto.akhalmosulishvili@gmail.com",
+        "password": "scrypt:32768:8:1$jAssnaX8ZGth3CVO$810cae32b83fab6ddcb05dc4cc1798534a8cc3130cec152a107273e7766e501a1a57f549fa49273ab9db31b9b806340f44fd3dd8274ad46fdea2d626af86fb81"
+    }
+]
